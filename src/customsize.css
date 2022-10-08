@@ -1,0 +1,383 @@
+/* =============REPONSIVE============ */
+@media screen and (max-width: 1200px) {
+  .card .datanews {
+    bottom: 5px !important;
+  }
+  #root {
+    overflow: hidden;
+  }
+  .gridHeader {
+    margin: 0 !important;
+  }
+  .collapseMenu {
+    border-top: 2px solid black;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+  }
+  .divHeaderButton button {
+    outline: none;
+    border: none;
+    background-color: #60c5ef;
+  }
+  .collapseMenu h4 {
+    margin-top: 8px;
+    color: black;
+  }
+  .girdFooter h6 {
+    margin-top: 0 !important;
+  }
+  .girdFooter {
+    flex-direction: column !important;
+  }
+  .example-1,
+  .example-2 {
+    width: 100% !important;
+  }
+  .app {
+    text-align: center;
+    padding: 50px 0 80px 0 !important;
+  }
+  .divHeader {
+    display: none;
+  }
+  .gridApp {
+    display: block;
+  }
+  .slick-slider {
+    height: 100%;
+  }
+  .containerBanner {
+    margin-top: 77px;
+  }
+  .imgBanner {
+    height: 100% !important;
+  }
+  div.bookMovie {
+    transform: translate(0, 10%);
+    margin-bottom: 0 !important;
+  }
+  .containerMovieShow {
+    display: none !important;
+  }
+  .loginContainer {
+    margin-top: 75px !important;
+  }
+  .card-body {
+    padding: 0 !important;
+  }
+  .card-body tr th {
+    text-align: center;
+  }
+  .divHeaderButton .mantine-Popover-dropdown {
+    width: 118.188px !important;
+  }
+  .divHeaderButton .mantine-Popover-arrow {
+    left: calc(50% - 0.5px) !important;
+  }
+  .tabNew {
+    color: #fff;
+    font-size: 14px;
+  }
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 30px !important;
+  }
+  .navTab {
+    display: block;
+  }
+  .containerCaurousel {
+    padding: 1.5% 34% 0 29.2% !important;
+  }
+}
+@media screen and (max-width: 992px) {
+  .containerCaurousel {
+    padding: 1.5% 30% 0 29.2% !important;
+  }
+
+  .card .datanews {
+    bottom: 5px !important;
+  }
+  #root {
+    overflow: hidden;
+  }
+  .gridHeader {
+    margin: 0 !important;
+  }
+  .collapseMenu {
+    border-top: 2px solid black;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+  }
+  .divHeaderButton button {
+    outline: none;
+    border: none;
+    background-color: #60c5ef;
+  }
+  .collapseMenu h4 {
+    margin-top: 8px;
+    color: black;
+  }
+  .girdFooter h6 {
+    margin-top: 0 !important;
+  }
+  .girdFooter {
+    flex-direction: column !important;
+  }
+  .example-1,
+  .example-2 {
+    width: 100% !important;
+  }
+  .app {
+    text-align: center;
+    padding: 50px 0 80px 0 !important;
+  }
+  .divHeader {
+    display: none;
+  }
+  .gridApp {
+    display: block;
+  }
+  .slick-slider {
+    height: 100%;
+  }
+  .containerBanner {
+    margin-top: 77px;
+  }
+  .imgBanner {
+    height: 100% !important;
+  }
+  div.bookMovie {
+    transform: translate(0, 10%);
+    margin-bottom: 0 !important;
+  }
+  .containerMovieShow {
+    display: none !important;
+  }
+  .loginContainer {
+    margin-top: 75px !important;
+  }
+  .card-body {
+    padding: 0 !important;
+  }
+  .card-body tr th {
+    text-align: center;
+  }
+  .divHeaderButton .mantine-Popover-dropdown {
+    width: 118.188px !important;
+  }
+  .divHeaderButton .mantine-Popover-arrow {
+    left: calc(50% - 0.5px) !important;
+  }
+  .tabNew {
+    color: #fff;
+    font-size: 14px;
+  }
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 30px !important;
+  }
+  .navTab {
+    display: block;
+  }
+  .col-8 {
+    width: 100%;
+  }
+  .col-4 {
+    width: 100%;
+  }
+  .col-1 {
+    display: none;
+  }
+  .col-11 {
+    width: 100%;
+  }
+  .chairs {
+    margin-bottom: 14px;
+  }
+  .containerBooking {
+    flex-direction: column;
+  }
+  .containerBooking .col-11 {
+    flex-direction: row-reverse;
+  }
+
+}
+@media screen and (max-width: 767px) {
+  .containerCaurousel {
+    padding: 2.5% 29% 0 29.2% !important;
+  }
+  #root {
+    overflow: hidden;
+  }
+  .gridHeader {
+    margin: 0 !important;
+  }
+  .collapseMenu {
+    border-top: 2px solid black;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+  }
+  .divHeaderButton button {
+    outline: none;
+    border: none;
+    background-color: #60c5ef;
+  }
+  .collapseMenu h4 {
+    margin-top: 8px;
+    color: black;
+  }
+  .girdFooter h6 {
+    margin-top: 0 !important;
+  }
+  .girdFooter {
+    flex-direction: column !important;
+  }
+  .example-1,
+  .example-2 {
+    width: 100% !important;
+  }
+  .app {
+    text-align: center;
+    padding: 50px 0 80px 0 !important;
+  }
+  .divHeader {
+    display: none;
+  }
+  .gridApp {
+    display: block;
+  }
+  .slick-slider {
+    height: 100%;
+  }
+  .containerBanner {
+    margin-top: 77px;
+  }
+  .imgBanner {
+    height: 100% !important;
+  }
+  div.bookMovie {
+    transform: translate(0, 10%);
+    margin-bottom: 0 !important;
+  }
+  .containerMovieShow {
+    display: none !important;
+  }
+  .loginContainer {
+    margin-top: 75px !important;
+  }
+  .card-body {
+    padding: 0 !important;
+  }
+  .card-body tr th {
+    text-align: center;
+  }
+  .divHeaderButton .mantine-Popover-dropdown {
+    width: 118.188px !important;
+  }
+  .divHeaderButton .mantine-Popover-arrow {
+    left: calc(50% - 0.5px) !important;
+  }
+  .tabNew {
+    color: #fff;
+    font-size: 14px;
+  }
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 30px !important;
+  }
+  .navTab {
+    display: block;
+  }
+}
+@media screen and (max-width: 576px) {
+  #root {
+    overflow: hidden;
+  }
+  .gridHeader {
+    margin: 0 !important;
+  }
+  .collapseMenu {
+    border-top: 2px solid black;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+  }
+  .divHeaderButton button {
+    outline: none;
+    border: none;
+    background-color: #60c5ef;
+  }
+  .collapseMenu h4 {
+    margin-top: 8px;
+    color: black;
+  }
+  .girdFooter h6 {
+    margin-top: 0 !important;
+  }
+  .girdFooter {
+    flex-direction: column !important;
+  }
+  .example-1,
+  .example-2 {
+    width: 100% !important;
+  }
+  .app {
+    text-align: center;
+    padding: 50px 0 80px 0 !important;
+  }
+  .divHeader {
+    display: none;
+  }
+  .gridApp {
+    display: block;
+  }
+  .slick-slider {
+    height: 100%;
+  }
+  .containerBanner {
+    margin-top: 77px;
+  }
+  .imgBanner {
+    height: 100% !important;
+  }
+  div.bookMovie {
+    transform: translate(0, 10%);
+    margin-bottom: 0 !important;
+  }
+  .containerMovieShow {
+    display: none !important;
+  }
+  .loginContainer {
+    margin-top: 75px !important;
+  }
+  .card-body {
+    padding: 0 !important;
+  }
+  .card-body tr th {
+    text-align: center;
+  }
+  .divHeaderButton .mantine-Popover-dropdown {
+    width: 118.188px !important;
+  }
+  .divHeaderButton .mantine-Popover-arrow {
+    left: calc(50% - 0.5px) !important;
+  }
+  .tabNew {
+    color: #fff;
+    font-size: 14px;
+  }
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 30px !important;
+  }
+  .navTab {
+    display: block;
+  }
+}
